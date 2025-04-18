@@ -30,11 +30,10 @@ carteira_virtual/
 
 Execute o script principal:
 Bash
-
 python main.py
 Requisitos: Python 3.7 ou superior
+
 📋 Exemplo de saída
-Markdown
 
 --- Histórico de Transações ---
 Salário     | +3000 | Renda       | 01/04/2025
@@ -46,17 +45,19 @@ Restaurante |   -90 | Alimentação | 12/04/2025
 
 ===== RESUMO GERAL =====
 Total de transações: 5
-Renda total: +3800.00
-Gastos totais: -1540.00
-Saldo final: 2260.00
+Renda total:    +3800.00
+Gastos totais:   -1540.00
+Saldo final:     +2260.00
 =========================
 
 --- Transações da categoria: Alimentação ---
 Supermercado |  -250 | Alimentação | 03/04/2025
-Restaurante |   -90 | Alimentação | 12/04/2025
+Restaurante |   -90 | Alimentação | 12/04/202
+
 -------------------------------------------
 ✨ Tecnologias utilizadas
 Python 3
 Programação Orientada a Objetos (POO)
+
 📄 Licença
 Este projeto está sob a licença MIT.
